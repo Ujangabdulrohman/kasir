@@ -1,0 +1,6 @@
+=== NOTA KASIR ===
+Barang        : odol
+Harga         : 2000
+Jumlah Barang : 2
+Total Harga   : 4000
+
